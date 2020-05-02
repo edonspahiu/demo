@@ -1,14 +1,14 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    
+    {"id":1,"name":"Apricot","calories":85,"fiber":4,"color":"orange"},
+    {"id":2,"name":"Avocado","calories":80,"fiber":2,"color":"green/yellow"},
+    {"id":3,"name":"Blackberries","calories":7,"fiber":8,"color":"red/purple"},
+    {"id":4,"name":"Blueberries","calories":110,"fiber":5,"color":"red"},
+    {"id":5,"name":"Cherries","calories":85,"fiber":3,"color":"red/purple"},
+    {"id":6,"name":"Red Apple","calories":100,"fiber":4,"color":"purple"},
+    {"id":7,"name":"Tangerine","calories":85,"fiber":5,"color":"orange/yellow"},
+    {"id":8,"name":"Strawberries","calories":75,"fiber":6,"color":"purple"},
+    {"id":9,"name":"Watermelon","calories":50,"fiber":1,"color":"red"},
+    {"id":10,"name":"Grapes","calories":115,"fiber":2,"color":"red/yellow"}
+    
+]
